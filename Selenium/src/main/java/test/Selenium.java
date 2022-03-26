@@ -11,6 +11,7 @@ public class Selenium {
 		WebDriver driver = new ChromeDriver(); //objeto de webdriver
 		driver.get("https://www.google.com"); 
 		//una prueba
+		//una prueba2 
 	}
 
 }
