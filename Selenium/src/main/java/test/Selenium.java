@@ -12,6 +12,7 @@ public class Selenium {
 		driver.get("https://www.google.com"); 
 		//una prueba
 		//una prueba2 
+		//una prueba3
 	}
 
 }
